@@ -1,0 +1,40 @@
+
+.menu1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* The code from lines 2-4 puts the title of the website in the center */
+.title {
+    text-shadow: 3px 3px red;
+}
+
+.sectionStyle {
+    text-shadow: 3px 3px #0000AD;
+}
+
+/* The code from lines 6-10 adds the black background-color and white text color for each section heading. If you want to change the color of the section headers, change this code!*/
+div {
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+}
+
+.title {
+    color: blue;
+}
+
+img {
+    border: 5px dotted red;
+    width: 300px;
+    padding: 7px;
+    margin: 10px;
+}
+
+.gallery{
+display:flex;
+    justify-content: center;
+}
+.about{
+background-color:red;
+}
